@@ -1,0 +1,29 @@
+{
+  "name": "zapp-cie",
+  "version": "0.0.1",
+  "description": "ZigBee IAS CIE Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zigbeer/zapp-cie.git"
+  },
+  "keywords": [
+    "zigbee",
+    "cie"
+  ],
+  "author": "Jack Wu <jackchased@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zigbeer/zapp-cie/issues"
+  },
+  "homepage": "https://github.com/zigbeer/zapp-cie#readme",
+  "dependencies": {
+    "objectbox": "^0.3.0",
+    "zcl-id": "^0.3.2",
+    "ziee": "^0.3.0",
+    "zive": "^0.2.2"
+  }
+}
